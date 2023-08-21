@@ -1,0 +1,10 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-logo {
+  width: 500px;
+  height: 300px;
+  margin: auto;
+}
