@@ -1,4 +1,7 @@
 .search-results {
-  width: 20%;
-  height: 20%;
+  width: 30%;
+  height: 30%;
+  border: 5px solid;
+  border-color: gainsboro;
+  border-radius: 10px;
 }
